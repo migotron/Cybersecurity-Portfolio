@@ -9,3 +9,4 @@ The course provides multiple opportunities throughout the certificate program to
 The opportunities completed so far:
  
 Drafting a professional statement
+Conducting a security audit
